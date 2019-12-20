@@ -1,0 +1,12 @@
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\dotMemory.Unit.dll
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\nunit.framework.dll
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\dotMemory.Unit.xml
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\nunit.framework.pdb
+C:\Users\JK\source\repos\Flyweight\Flyweight\bin\Debug\nunit.framework.xml
+C:\Users\JK\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.csproj.CopyComplete
+C:\Users\JK\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\JK\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.pdb

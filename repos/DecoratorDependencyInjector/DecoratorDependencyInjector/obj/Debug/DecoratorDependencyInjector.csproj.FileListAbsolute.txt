@@ -1,0 +1,10 @@
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\bin\Debug\DecoratorDependencyInjector.exe.config
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\bin\Debug\DecoratorDependencyInjector.exe
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\bin\Debug\DecoratorDependencyInjector.pdb
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\obj\Debug\DecoratorDependencyInjector.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\obj\Debug\DecoratorDependencyInjector.exe
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\obj\Debug\DecoratorDependencyInjector.pdb
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\bin\Debug\Autofac.dll
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\bin\Debug\Autofac.pdb
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\bin\Debug\Autofac.xml
+C:\Users\JK\source\repos\DecoratorDependencyInjector\DecoratorDependencyInjector\obj\Debug\DecoratorDependencyInjector.csproj.CopyComplete

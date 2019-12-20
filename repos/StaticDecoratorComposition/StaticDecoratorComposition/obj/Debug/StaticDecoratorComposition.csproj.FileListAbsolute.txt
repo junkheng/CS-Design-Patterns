@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\StaticDecoratorComposition\StaticDecoratorComposition\bin\Debug\StaticDecoratorComposition.exe.config
+C:\Users\JK\source\repos\StaticDecoratorComposition\StaticDecoratorComposition\bin\Debug\StaticDecoratorComposition.exe
+C:\Users\JK\source\repos\StaticDecoratorComposition\StaticDecoratorComposition\bin\Debug\StaticDecoratorComposition.pdb
+C:\Users\JK\source\repos\StaticDecoratorComposition\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\StaticDecoratorComposition\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.exe
+C:\Users\JK\source\repos\StaticDecoratorComposition\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.pdb

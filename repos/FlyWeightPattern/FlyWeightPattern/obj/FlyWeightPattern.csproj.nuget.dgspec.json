@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JK\\source\\repos\\FlyWeightPattern\\FlyWeightPattern\\FlyWeightPattern.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JK\\source\\repos\\FlyWeightPattern\\FlyWeightPattern\\FlyWeightPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JK\\source\\repos\\FlyWeightPattern\\FlyWeightPattern\\FlyWeightPattern.csproj",
+        "projectName": "FlyWeightPattern",
+        "projectPath": "C:\\Users\\JK\\source\\repos\\FlyWeightPattern\\FlyWeightPattern\\FlyWeightPattern.csproj",
+        "packagesPath": "C:\\Users\\JK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JK\\source\\repos\\FlyWeightPattern\\FlyWeightPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "JetBrains.DotMemoryUnit": {
+              "target": "Package",
+              "version": "[3.0.20171219.105559, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

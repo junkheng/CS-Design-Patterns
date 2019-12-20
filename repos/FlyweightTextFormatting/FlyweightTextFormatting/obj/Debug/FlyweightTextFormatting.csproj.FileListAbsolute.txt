@@ -1,0 +1,12 @@
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\FlyweightTextFormatting.exe.config
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\FlyweightTextFormatting.exe
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\FlyweightTextFormatting.pdb
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\obj\Debug\FlyweightTextFormatting.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\obj\Debug\FlyweightTextFormatting.exe
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\obj\Debug\FlyweightTextFormatting.pdb
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\AngleSharp.dll
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\AngleSharp.xml
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JK\source\repos\FlyweightTextFormatting\FlyweightTextFormatting\obj\Debug\FlyweightTextFormatting.csproj.CopyComplete
