@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\ValueProxy\ValueProxy\bin\Debug\ValueProxy.exe.config
+C:\Users\JK\source\repos\ValueProxy\ValueProxy\bin\Debug\ValueProxy.exe
+C:\Users\JK\source\repos\ValueProxy\ValueProxy\bin\Debug\ValueProxy.pdb
+C:\Users\JK\source\repos\ValueProxy\ValueProxy\obj\Debug\ValueProxy.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\ValueProxy\ValueProxy\obj\Debug\ValueProxy.exe
+C:\Users\JK\source\repos\ValueProxy\ValueProxy\obj\Debug\ValueProxy.pdb
