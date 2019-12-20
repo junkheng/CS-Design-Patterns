@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\PropertyProxy\PropertyProxy\bin\Debug\PropertyProxy.exe.config
+C:\Users\JK\source\repos\PropertyProxy\PropertyProxy\bin\Debug\PropertyProxy.exe
+C:\Users\JK\source\repos\PropertyProxy\PropertyProxy\bin\Debug\PropertyProxy.pdb
+C:\Users\JK\source\repos\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.exe
+C:\Users\JK\source\repos\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.pdb
