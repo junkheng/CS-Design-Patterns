@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\ProtectionProxy\ProtectionProxy\bin\Debug\ProtectionProxy.exe.config
+C:\Users\JK\source\repos\ProtectionProxy\ProtectionProxy\bin\Debug\ProtectionProxy.exe
+C:\Users\JK\source\repos\ProtectionProxy\ProtectionProxy\bin\Debug\ProtectionProxy.pdb
+C:\Users\JK\source\repos\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.exe
+C:\Users\JK\source\repos\ProtectionProxy\ProtectionProxy\obj\Debug\ProtectionProxy.pdb

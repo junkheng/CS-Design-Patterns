@@ -76,7 +76,6 @@ namespace FlyweightTextFormatting
                         c = char.ToUpper(c);
                 sb.Append(c);
             }
-
             return sb.ToString();
         }
     }
