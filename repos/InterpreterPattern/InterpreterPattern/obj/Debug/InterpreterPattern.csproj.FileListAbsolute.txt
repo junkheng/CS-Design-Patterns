@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\InterpreterPattern\InterpreterPattern\obj\Debug\InterpreterPattern.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe.config
+C:\Users\JK\source\repos\InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+C:\Users\JK\source\repos\InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+C:\Users\JK\source\repos\InterpreterPattern\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+C:\Users\JK\source\repos\InterpreterPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb
