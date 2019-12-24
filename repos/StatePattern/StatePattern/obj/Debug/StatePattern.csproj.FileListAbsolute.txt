@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\StatePattern\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\JK\source\repos\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\JK\source\repos\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\JK\source\repos\StatePattern\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\StatePattern\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\JK\source\repos\StatePattern\StatePattern\obj\Debug\StatePattern.pdb
