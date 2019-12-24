@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\StrategyDynamicPattern\StrategyDynamicPattern\bin\Debug\StrategyDynamicPattern.exe.config
+C:\Users\JK\source\repos\StrategyDynamicPattern\StrategyDynamicPattern\bin\Debug\StrategyDynamicPattern.exe
+C:\Users\JK\source\repos\StrategyDynamicPattern\StrategyDynamicPattern\bin\Debug\StrategyDynamicPattern.pdb
+C:\Users\JK\source\repos\StrategyDynamicPattern\StrategyDynamicPattern\obj\Debug\StrategyDynamicPattern.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\StrategyDynamicPattern\StrategyDynamicPattern\obj\Debug\StrategyDynamicPattern.exe
+C:\Users\JK\source\repos\StrategyDynamicPattern\StrategyDynamicPattern\obj\Debug\StrategyDynamicPattern.pdb
