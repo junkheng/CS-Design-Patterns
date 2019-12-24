@@ -1,0 +1,10 @@
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\bin\Debug\StatelessLibrary.exe.config
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\bin\Debug\StatelessLibrary.exe
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\bin\Debug\StatelessLibrary.pdb
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\bin\Debug\Stateless.dll
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\bin\Debug\Stateless.pdb
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\bin\Debug\Stateless.xml
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\obj\Debug\StatelessLibrary.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\obj\Debug\StatelessLibrary.csproj.CopyComplete
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\obj\Debug\StatelessLibrary.exe
+C:\Users\JK\source\repos\StatelessLibrary\StatelessLibrary\obj\Debug\StatelessLibrary.pdb

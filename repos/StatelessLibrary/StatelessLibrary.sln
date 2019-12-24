@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatelessLibrary", "StatelessLibrary\StatelessLibrary.csproj", "{56914C02-D2D4-4FDB-AECC-6EB5208C7BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56914C02-D2D4-4FDB-AECC-6EB5208C7BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56914C02-D2D4-4FDB-AECC-6EB5208C7BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56914C02-D2D4-4FDB-AECC-6EB5208C7BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56914C02-D2D4-4FDB-AECC-6EB5208C7BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C58446D-B3C9-408F-823D-E73594D4E67D}
+	EndGlobalSection
+EndGlobal
