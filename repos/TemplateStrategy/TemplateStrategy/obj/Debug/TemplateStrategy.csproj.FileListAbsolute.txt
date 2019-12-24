@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\TemplateStrategy\TemplateStrategy\bin\Debug\TemplateStrategy.exe.config
+C:\Users\JK\source\repos\TemplateStrategy\TemplateStrategy\bin\Debug\TemplateStrategy.exe
+C:\Users\JK\source\repos\TemplateStrategy\TemplateStrategy\bin\Debug\TemplateStrategy.pdb
+C:\Users\JK\source\repos\TemplateStrategy\TemplateStrategy\obj\Debug\TemplateStrategy.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\TemplateStrategy\TemplateStrategy\obj\Debug\TemplateStrategy.exe
+C:\Users\JK\source\repos\TemplateStrategy\TemplateStrategy\obj\Debug\TemplateStrategy.pdb
