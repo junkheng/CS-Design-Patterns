@@ -1,0 +1,6 @@
+C:\Users\JK\source\repos\MementoUndoRedo\MementoUndoRedo\bin\Debug\MementoUndoRedo.exe.config
+C:\Users\JK\source\repos\MementoUndoRedo\MementoUndoRedo\bin\Debug\MementoUndoRedo.exe
+C:\Users\JK\source\repos\MementoUndoRedo\MementoUndoRedo\bin\Debug\MementoUndoRedo.pdb
+C:\Users\JK\source\repos\MementoUndoRedo\MementoUndoRedo\obj\Debug\MementoUndoRedo.csprojAssemblyReference.cache
+C:\Users\JK\source\repos\MementoUndoRedo\MementoUndoRedo\obj\Debug\MementoUndoRedo.exe
+C:\Users\JK\source\repos\MementoUndoRedo\MementoUndoRedo\obj\Debug\MementoUndoRedo.pdb
